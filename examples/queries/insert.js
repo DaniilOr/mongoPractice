@@ -1,0 +1,1 @@
+ db.payments.updateOne({user_id: 1}, {$push: {payments :{icon: "http://icon4.html", name:"NewPayment", link:"http://link4.html"}}})

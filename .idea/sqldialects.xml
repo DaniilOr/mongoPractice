@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/docker-entrypoint-initdb.d/00-schema.js" dialect="MongoDB" />
+    <file url="file://$PROJECT_DIR$/docker-entrypoint-initdb.d/01-data.js" dialect="MongoDB" />
+    <file url="file://$PROJECT_DIR$/examples/queries/delete.js" dialect="MongoDB" />
+    <file url="file://$PROJECT_DIR$/examples/queries/find.js" dialect="MongoDB" />
+    <file url="file://$PROJECT_DIR$/examples/queries/insert.js" dialect="MongoDB" />
+  </component>
+</project>

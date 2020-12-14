@@ -1,0 +1,1 @@
+db.payments.updateOne({user_id: 1}, {$pull: {payments :{$or: [{name:"NewPayment"}]}}})
